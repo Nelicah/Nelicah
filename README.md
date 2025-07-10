@@ -2,10 +2,6 @@
   <img src="logo.png" width="150" alt="Nelicah logo" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Cande+Zamora+(Nelicah);Full+Stack+Developer+creativa;Apasionada+por+el+c%C3%B3digo+y+el+detalle" alt="Typing SVG" />
-</h1>
-
 # 👩‍💻 ¡Hola! Soy Cande Zamora (aka Nelicah)
 
 Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas. Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
