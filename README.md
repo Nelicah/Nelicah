@@ -45,7 +45,7 @@ Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrollador
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cande-zamora-125301349" target="_blank" rel="noopener noreferrer">
-    <img src="https://camo.githubusercontent.com/560e0a22a07a1b2b814d2d7a866d6e1368dcd0552f4bc86aa5be96c6c5ed344b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373644656164677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
