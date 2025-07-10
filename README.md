@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Cande+Zamora+(Nelicah);Full+Stack+Developer+creativa;Apasionada+por+el+código+y+el+detalle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Cande+Zamora+(Nelicah);Full+Stack+Developer+creativa;Apasionada+por+el+c%C3%B3digo+y+el+detalle" alt="Typing SVG" />
 </h1>
 
 # 👩‍💻 ¡Hola! Soy Cande Zamora (aka Nelicah)
