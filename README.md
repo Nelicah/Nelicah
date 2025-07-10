@@ -1,14 +1,19 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Typing animation" width="200" />
+</p>
+
+<p align="center">
   <img src="logo.png" width="150" alt="Nelicah logo" />
 </p>
 
 # 👩‍💻 ¡Hola! Soy Cande Zamora (aka Nelicah)
 
-Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas. Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
+> Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas.  
+> Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
 
 ---
 
-## 🧠 Tecnologías c
+## 🧠 Tecnologías
 
 ### 🎨 **Frontend**
 
@@ -28,15 +33,18 @@ Desarrolladora **Full Stack** con pasión por crear experiencias web que sean ta
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-
 **Otros**  
 🛠️ Git, GitHub, APIs REST, control de versiones, diseño responsive
 
 ---
 
+![Work in progress](https://img.shields.io/badge/Work%20in%20progress-yellow?style=for-the-badge&logo=clock&logoColor=black)
+
+---
+
 ## 🚀 ¿Qué vas a encontrar por aquí?
 
-Mi perfil tiene algunos proyectos que reflejan mi aprendisaje como desarrolladora. Desde pequeños desafíos técnicos hasta soluciones full stack completas. Cada repo cuenta una parte de mi historia como profesional.
+Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrolladora. Desde pequeños desafíos técnicos hasta soluciones full stack completas. Cada repo cuenta una parte de mi historia como profesional.
 
 > *"El código no solo debe funcionar; también debe contar algo."*
 
@@ -44,9 +52,11 @@ Mi perfil tiene algunos proyectos que reflejan mi aprendisaje como desarrollador
 
 ## 📫 Conectemos
 
-🔗 [LinkedIn](www.linkedin.com/in/cande-zamora-125301349)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/cande-zamora-125301349" target="_blank">
+    <img src="https://camo.githubusercontent.com/560e0a22a07a1b2b814d2d7a866d6e1368dcd0552f4bc86aa5be96c6c5ed344b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373644656164677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nelicah&label=Visitas&color=blue&style=flat" alt="visitas al perfil"/>
