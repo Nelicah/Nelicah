@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing animation" width="250" />
-</p>
-
-<p align="center">
   <img src="logo.png" width="150" alt="Nelicah logo" />
 </p>
 
 # 👩‍💻 ¡Hola! Soy Cande Zamora (aka Nelicah)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=6A5ACD&center=true&vCenter=true&width=400&height=50&lines=Desarrolladora+Full+Stack;Apasionada+por+crear+experiencias+web;Código+limpio+y+creativo" alt="Typing SVG" />
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+junior+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </p>
 
 Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas. Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
