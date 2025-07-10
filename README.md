@@ -37,7 +37,7 @@ Git, GitHub, APIs REST, diseño responsive
 
 Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrolladora. Desde pequeños desafíos técnicos hasta soluciones full stack completas. Cada repo cuenta una parte de mi historia como profesional.
 
-> *"El código no solo debe funcionar; también debe contar algo."*
+> *"El código no solo debe funcionar, también debe contar algo."*
 
 ---
 
