@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Typing animation" width="200" />
+  <!-- GIF animado con efecto typing personalizado -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Typing animation" width="250" />
 </p>
 
 <p align="center">
@@ -8,8 +9,7 @@
 
 # 👩‍💻 ¡Hola! Soy Cande Zamora (aka Nelicah)
 
-> Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas.  
-> Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
+Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas. Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
 
 ---
 
@@ -38,11 +38,14 @@
 
 ---
 
-![Work in progress](https://img.shields.io/badge/Work%20in%20progress-yellow?style=for-the-badge&logo=clock&logoColor=black)
+<!-- Badge animado tipo loading con emoji -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Cargando...-orange?style=for-the-badge&logo=hourglass&logoColor=white" alt="Loading badge" />
+</p>
 
 ---
 
-## 🚀 ¿Qué vas a encontrar por aquí?
+## 🚀 ¿Qué vas a encontrar por aquí? ✨🔥
 
 Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrolladora. Desde pequeños desafíos técnicos hasta soluciones full stack completas. Cada repo cuenta una parte de mi historia como profesional.
 
