@@ -43,7 +43,7 @@ Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrollador
 
 ## 📫 Conectemos
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/cande-zamora-125301349" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
