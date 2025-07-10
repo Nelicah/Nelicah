@@ -33,11 +33,11 @@ Desarrolladora **Full Stack** con pasión por crear experiencias web que sean ta
 </p>
 
 **Otros**  
-🛠️ Git, GitHub, APIs REST, control de versiones, diseño responsive
+Git, GitHub, APIs REST, diseño responsive
 
 ---
 
-## 🚀 ¿Qué vas a encontrar por aquí? ✨🔥
+## 🚀 ¿Qué vas a encontrar por aquí?
 
 Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrolladora. Desde pequeños desafíos técnicos hasta soluciones full stack completas. Cada repo cuenta una parte de mi historia como profesional.
 
