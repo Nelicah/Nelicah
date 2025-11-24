@@ -1,6 +1,6 @@
 # ¡Hola! Soy Cande Zamora (aka Nelicah)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cande%20Zamora&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20Junior&descAlignY=55&descAlign=50" alt="header"/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+junior+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creando+experiencias+web+%C3%BAnicas" alt="Typing SVG" /></a>
 </p>
 
 Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas. Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
