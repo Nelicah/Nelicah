@@ -2,6 +2,11 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+junior+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creando+experiencias+web+%C3%BAnicas" alt="Typing SVG" /></a>
 </p>
+<p align="center">
+  <a href="https://mi-portafolio-4pvb.onrender.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Ver_mi_Portfolio-6366F1?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
 
 Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas. Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
 
