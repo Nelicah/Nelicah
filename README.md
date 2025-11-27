@@ -70,9 +70,5 @@ Actualmente disponible para proyectos freelance. Si buscas una desarrolladora co
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nelicah&label=Visitas%20al%20perfil&color=6366f1&style=for-the-badge" alt="visitas al perfil"/>
-</p>
-
-<p align="center">
   <i>¡Gracias por pasarte por aquí! Si algo te inspira o te deja con preguntas, ¡no dudes en escribirme!</i>
 </p>
