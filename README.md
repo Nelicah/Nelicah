@@ -70,7 +70,12 @@ Actualmente disponible para proyectos freelance. Si buscas una desarrolladora co
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nelicah&label=Visitas&color=blue&style=flat" alt="visitas al perfil"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelicah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelicah&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nelicah&label=Visitas&color=blueviolet&style=flat" alt="visitas"/>
 </p>
 
 <p align="center">
