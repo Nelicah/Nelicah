@@ -70,7 +70,7 @@ Actualmente disponible para proyectos freelance. Si buscas una desarrolladora co
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelicah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://profile-counter.glitch.me/nelicah/count.svg" alt="Contador de visitas" />
 </p>
 
 <p align="center">
