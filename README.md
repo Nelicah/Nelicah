@@ -53,7 +53,7 @@ Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrollador
 
 ## 💼 Trabajemos juntas/os
 
-Actualmente disponible para proyectos freelance. Si buscas una desarrolladora comprometida con crear soluciones web de calidad, ¡conversemos!
+Abierta a nuevas oportunidades y colaboraciones: proyectos empresariales, freelance o iniciativas altruistas. Si buscas una desarrolladora comprometida con crear soluciones web de calidad, ¡conversemos!
 
 ---
 
