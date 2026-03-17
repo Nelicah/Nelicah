@@ -39,6 +39,7 @@ Desarrolladora **Full Stack** con pasión por crear experiencias web que sean ta
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Responsive_Design-FF6F61?style=for-the-badge&logo=responsive&logoColor=white"/>
 </p>
