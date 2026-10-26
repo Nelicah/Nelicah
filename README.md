@@ -1,6 +1,6 @@
 # ¡Hola! Soy Cande Zamora (aka Nelicah)
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%26+QA+Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB; Creando+c%C3%B3digo+y+asegurando+su+calidad+%F0%9F%AEA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%26+QA+Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
