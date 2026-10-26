@@ -1,6 +1,6 @@
 # ¡Hola! Soy Cande Zamora (aka Nelicah)
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creando+experiencias+web+%C3%BAnicas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%26+QA+Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creando+c%C3%B3digo+y+asegurando+su+calidad+%F0%9F%AEA" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Desarrolladora **Full Stack** con pasión por crear experiencias web que sean tanto funcionales como visualmente atractivas. Me encanta escribir código limpio, escalar ideas con lógica y transformar conceptos en interfaces que conectan con las personas.
+Desarrolladora **Full Stack & Software QA Engineer**. Apasionada por construir experiencias web funcionales, escalables y orientadas a la calidad. Combino mi experiencia en desarrollo con metodologías de **testing automatizado y manual** (APIs y E2E) para asegurar que el software no solo funcione, sino que cumpla con los más altos estándares de fiabilidad.
 
 ---
 
@@ -35,35 +35,42 @@ Desarrolladora **Full Stack** con pasión por crear experiencias web que sean ta
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔧 **Herramientas & Otros**
+### 🧪 **QA & Testing**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Testing-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🔧 **Herramientas & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Responsive_Design-FF6F61?style=for-the-badge&logo=responsive&logoColor=white"/>
 </p>
 
-### 📋 **Metodologías**
+### 📋 **Metodologías & Gestión**
 <p>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 ¿Qué vas a encontrar por aquí?
 
-Mi perfil tiene algunos proyectos que reflejan mi aprendizaje como desarrolladora. Desde pequeños desafíos técnicos hasta soluciones full stack completas. Cada repo cuenta una parte de mi historia como profesional.
+Mi perfil combina proyectos de desarrollo full stack con suites de **testing automatizado e integración continua (CI/CD)**. Aquí verás cómo aplico la perspectiva de calidad tanto al construir nuevas funcionalidades como al diseñar casos de prueba y pipelines automatizados.
 
-> *"El código no solo debe funcionar, también debe contar algo."*
+> *"El código no solo debe funcionar, debe ser testeable, robusto y mantenible."*
 
 ---
 
 ## 💼 Trabajemos juntas/os
 
-Abierta a nuevas oportunidades y colaboraciones: proyectos empresariales, freelance o iniciativas altruistas. Si buscas una desarrolladora comprometida con crear soluciones web de calidad, ¡conversemos!
+Abierta a nuevas oportunidades laborales y colaboraciones profesionales en **Desarrollo Full Stack** y **Software QA Engineering** (QA Manual & Automation). Si buscas una profesional comprometida con el desarrollo de soluciones fiables y bien testeadas, ¡hablemos!
 
 ---
 
@@ -81,5 +88,5 @@ Abierta a nuevas oportunidades y colaboraciones: proyectos empresariales, freela
 ---
 
 <p align="center">
-  <i>¡Gracias por pasarte por aquí! Si algo te inspira o te deja con preguntas, ¡no dudes en escribirme!</i>
+  <i>¡Gracias por pasarte por aquí! Si algo te inspira o quieres hablar sobre desarrollo o QA, ¡no dudes en escribirme!</i>
 </p>
